@@ -1,0 +1,19 @@
+{
+  "name": "blood-donation-emergency-management-system",
+  "version": "1.0.0",
+  "description": "Full-stack Blood Donation and Emergency Request Management System",
+  "scripts": {
+    "seed": "npm run seed --prefix backend",
+    "backend": "npm start --prefix backend",
+    "frontend": "npm run dev --prefix frontend"
+  },
+  "keywords": [
+    "blood-donation",
+    "emergency-requests",
+    "mongodb",
+    "express",
+    "react",
+    "node",
+    "tailwind"
+  ]
+}
